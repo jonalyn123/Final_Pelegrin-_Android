@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928385054434",
+    "project_id": "pelegrin-jonalyn-final",
+    "storage_bucket": "pelegrin-jonalyn-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928385054434:android:f8cfd549076e4023d110bb",
+        "android_client_info": {
+          "package_name": "com.example.finalpelegrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928385054434-n399tat8eqs1qveafe5q2ol0jop5ur43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZo3m8olpn-QzQh9StDeItI9PRYWkKQoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928385054434-n399tat8eqs1qveafe5q2ol0jop5ur43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
